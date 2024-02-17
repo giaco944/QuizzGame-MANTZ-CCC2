@@ -1,4 +1,4 @@
-# QuizzGame-MANTZ-CCC2
+
 
 This is a simple quizz app in Python
 
